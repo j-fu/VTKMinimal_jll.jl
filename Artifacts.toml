@@ -1,0 +1,10 @@
+[[VTKMinimal]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "867b02377f04a9ba62d66046fae7650ab7fdc5ab"
+libc = "glibc"
+os = "linux"
+
+    [[VTKMinimal.download]]
+    sha256 = "c501e83bf592754ed1da2dfe0028c381652e9e02bc280589d633a895ccbcbc92"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v8.2.0+0/VTKMinimal.v8.2.0.x86_64-linux-gnu-cxx11.tar.gz"
