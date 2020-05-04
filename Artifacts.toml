@@ -1,99 +1,99 @@
 [[VTKMinimal]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f9c647c22eaf7e4f04562cbe3e1aacd237064f09"
+git-tree-sha1 = "0bf753f94a8a23026ce62a5686d66d36b8e8820f"
 libc = "glibc"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "c8c22005f8df9cafb95dfe042d9e1bc650bf69d8db735b255b7b071c8ccf6c0e"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "ab3e560bb1104258e7aa1bda8e97c855a35a13fa4a0e12a6d948bf5c5148e08e"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b7e7040bc2d8ed17f559a8e456658bf33892b244"
+git-tree-sha1 = "08c3cf1db5277b82c4cd7e51da29821d1577b326"
 libc = "glibc"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "da2a2340060b5574a210f684a069ffc1d93ab30fba018e053b6b3b8b0b490a6b"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "c01be299a5819c1df9e2cf191cc9eb4653cacd0dc7e183e5746d4be0717ac632"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.i686-linux-gnu-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3910033a24ee6e1db460aba725f86b910256fc0"
+git-tree-sha1 = "f8d08a4f48b098e8eb6209ed5cc8b618f87d8c14"
 libc = "musl"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "c156ee55d6a481337f20b46fb0016be608cdc12d7a30b70eb9297adc1b74baff"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "85718985096397027c0c50dad6c9c4937066c4edaf758b9fd1fc602172df0baa"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6168aad54ced5c790f02066876dd5e04c574113d"
+git-tree-sha1 = "ac3d9c6ab4385e0714f2e2f8b53bf9c1fdd891db"
 libc = "musl"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "1116493906d3475c5048f91036de3c66e972418536d518771340d010dba544d8"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "7b67708ae06af5cc45b1cf229907c407836d2726aae95e5a9c7afee6d643b6da"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "30530af63db0509444e31393c72ff049dc7baa31"
+git-tree-sha1 = "43d1a7f587246a8073ea618517788d850470855b"
 libc = "musl"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "3c2d518eda2ba546bbd0b5e4e635569543b4b78fefce6726dbe5d3734c08dde9"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "1f8f7633c79307fe774363c20a180d53fc5b3aa832240463f00400d9406a6f62"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.i686-linux-musl-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e42e4b638fdf2fab9fe7bd943ba6e4c027a013fc"
+git-tree-sha1 = "2ac1ae3d1006de34efc41a78ecd72cd9be6c050f"
 libc = "musl"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "0426a5d27bdc1a6822db631663d4423c2461c00b14b435b89e8a5fa33e3b088c"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "b9f5816dbedacd328dfad91f6e8d088525ab46a6feddef4a5976e3e2b088a590"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22030271cbf80b483177e00fbb67939e2f5620d0"
+git-tree-sha1 = "2a6a48e43a2d5fa5affa06852c28303d05c90926"
 libc = "glibc"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "f7ab94a9167d62dfd4870c84c869929bef86e8395e730853a9222afa7c1de04a"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c3e377a098f25fcc7111a9e64d90504aaf4649ae0a5164172b1df16500ea4766"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3077b9de051b092b4aee0134923f779352f937ca"
+git-tree-sha1 = "8e658998cb4a2907afc8c091ee351494ba26a3b0"
 libc = "glibc"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "3ca4fcae17067035b49090bb663a03e97ab969820abe4dc91a7c76e41e6dd6af"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "1aea69adef36eef718e777ef807e56f67a434a14e4a87054b59307df4fa2c1b3"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82486b862a02ca1b8c940a41153221f547802087"
+git-tree-sha1 = "1399c8ccd03d3db60bdcaab19cc6fbe5c3b2397d"
 libc = "glibc"
 os = "linux"
 
     [[VTKMinimal.download]]
-    sha256 = "d47776655a695bb682d84130d9933defb5e119c08474424fed7abea53c94c11c"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "9e5a0990370c0406e4c4d18dd873bb8b69c2817db2578b1cd05a8908b0cc7e37"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[VTKMinimal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb2a4dafbc9e194c597a4341ebb03a5a07cc1c55"
+git-tree-sha1 = "3f9972e6d8edd16b0569172d7cc85c9ca870abbd"
 os = "freebsd"
 
     [[VTKMinimal.download]]
-    sha256 = "879ded044e3f6e52db52fa13ac086b9002079c71426d88207bbdcd8c1915e06f"
-    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+3/VTKMinimal.v9.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+    sha256 = "3a18dd6cd4b555ebd20eaa973b77c807dbea7c522597f01666afe09154bbce04"
+    url = "https://github.com/j-fu/VTKMinimal_jll.jl/releases/download/VTKMinimal-v9.0.0+4/VTKMinimal.v9.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"

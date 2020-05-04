@@ -1,6 +1,6 @@
 name = "VTKMinimal_jll"
 uuid = "529833da-d7f1-5821-aee9-3785d4589272"
-version = "9.0.0+3"
+version = "9.0.0+4"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
